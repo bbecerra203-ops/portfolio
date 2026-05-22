@@ -1,0 +1,10 @@
+img[src="./BB logo.png"] {
+  border-radius: 50%
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
